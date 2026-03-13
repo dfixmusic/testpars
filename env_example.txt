@@ -5,9 +5,9 @@
 
 # API данные Telegram (получите на https://my.telegram.org/)
 # Обязательные параметры!
-API_ID=your_api_id_here
-API_HASH=your_api_hash_here
-PHONE=+your_phone_number_here
+API_ID=29829466
+API_HASH=c95497b8e5c18c8c65ea53ee29320ba9
+PHONE=+79522144376
 
 # =================================================================
 # КАНАЛЫ ДЛЯ ПАРСИНГА
@@ -21,7 +21,7 @@ PHONE=+your_phone_number_here
 # CHANNELS=-1001234567890,-1009876543210
 # CHANNELS=@public_channel,-1001234567890,@another_channel
 
-CHANNELS=@channel1,@channel2,channel_id
+CHANNELS=@jetlagchat, @Kinopeople, @CreativeSpecialists, @noimatown, @workforfree, @KinoMastery
 
 # =================================================================
 # КЛЮЧЕВЫЕ СЛОВА ДЛЯ ПОИСКА
@@ -34,4 +34,4 @@ CHANNELS=@channel1,@channel2,channel_id
 # IT: python,javascript,programming,разработка,код
 # Новости: новости,breaking,срочно,важно
 
-KEYWORDS=bitcoin,криптовалюта,блокчейн 
+KEYWORDS=звукорежиссёр, звукорежиссер, звукорежиссура, саунд-дизайн, саунддизайн, звуковой дизайн, композитор, музыка к видео, озвучка, дубляж, закадровый, чистка звука, шумоподавление, сведение, мастеринг, микширование, звукомонтаж, постпродакшн, Foley, синхронизация звука
